@@ -1,0 +1,7 @@
+product_id,title,category,image_filename,price,url
+jumper-001,Green Jumper,jumpers,jumper_green.jpg,59.00,
+jumper-002,Black Jumper,jumpers,jumper_black.jpg,59.00,
+jumper-003,Gray Jumper,jumpers,jumper_gray.jpg,59.00,
+jumper-004,Blue Jumper,jumpers,jumper_blue.jpg,59.00,
+jumper-005,Red Jumper,jumpers,jumper_red.jpg,59.00,
+jumper-006,Green Jumper (Alt),jumpers,jumper_green2.jpg,62.00,
